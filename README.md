@@ -43,7 +43,7 @@
 ### 🔧 Installation & Setup
 ```bash
 # Clone this repository
-git clone https://github.com/Dark-Angel1020/IP-Origin-Detector.git
+git clone https://github.com/Dark-Angel1020/IP-Origin.git
 
 # Navigate into the project folder
 cd ip-origin-detector
